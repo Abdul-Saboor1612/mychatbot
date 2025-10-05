@@ -16,18 +16,6 @@ It helps by:
 
 ---
 
-## 📂 Repository Structure
-
-| File / Module       | Purpose |
-|----------------------|--------------------------------------------------------|
-| `app.py` (or main file) | Entry point for interacting with the chatbot |
-| `nlp.py`             | Logic for text processing, sentiment classification, intent recognition |
-| `utils.py`           | Helper functions (e.g. text cleaning, preprocessing) |
-| `requirements.txt`   | List of Python packages / dependencies |
-| `README.md`           | Project documentation (this file) |
-
----
-
 ## ⚙️ Setup & Installation
 
 ### Prerequisites
@@ -50,9 +38,7 @@ It helps by:
 3. Install required packages:
    ```bash
    pip install -r requirements.txt
-4. Run the chatbot:
-   ```bash
-   python app.py
+
 
 ## 🌟 Features & Extensions Ideas
 - Expand sentiment categories or refine with more data
